@@ -1,3 +1,9 @@
+# Basic API Example
+
+This project is a tech test that required the consuming of a list of events and displaying them in some way using a frontend framework.
+
+This was a super quickly put together example, but it gets the job done for now.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
